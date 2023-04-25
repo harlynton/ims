@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ImsInventoryManagementSystemApplication {
+public class ImsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ImsInventoryManagementSystemApplication.class, args);
+		SpringApplication.run(ImsApplication.class, args);
 	}
 
 }

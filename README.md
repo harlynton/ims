@@ -17,7 +17,7 @@ Sistema básico de inventario
 * Spring Data JPA
 
 ## Referencias
-[Construye tu primer CRUD con Spring Boot, Angular y MySQL (Youtube)](https://www.youtube.com/watch?v=dxsVpLlMTPw)
-
+* [Construye tu primer CRUD con Spring Boot, Angular y MySQL (Youtube)](https://www.youtube.com/watch?v=dxsVpLlMTPw)
+* [Working with Relationships in Spring Data RES (Baeldung)](https://www.baeldung.com/spring-data-rest-relationships)
 
 ---
